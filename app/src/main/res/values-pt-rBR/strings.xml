@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orbital_Lab_to_Ground_Control</string>
+    <string name="write_words">Escreva palavras</string>
+    <string name="type_here">Digite aqui</string>
+    <string name="send">ENVIAR</string>
+    <string name="hello_name">Olá, %1$s!</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Orbital_Lab_to_Ground_Control</string>
+    <string name="write_words">Write words</string>
+    <string name="type_here">Type here:</string>
+    <string name="send">SEND</string>
+    <string name="hello_name">Hello, %1$s!</string>
+</resources>
